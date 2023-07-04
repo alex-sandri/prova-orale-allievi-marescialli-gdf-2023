@@ -111,7 +111,7 @@
 
 - [Caratteristiche degli insiemi numerici ed operazioni con essi. Gli insiemi N,
   Z, Q, R](matematica/aritmetica-ed-algebra/1.md).
-- Numeri irrazionali. Radicali ed operazioni con essi.
+- [Numeri irrazionali. Radicali ed operazioni con essi](matematica/aritmetica-ed-algebra/2.md).
 - Funzioni: definizione, classificazione (lineari, quadratiche, logaritmiche ed
   esponenziali), proprietà e loro rappresentazione grafica.
 - Funzioni esplicite ed implicite e relativa rappresentazione grafica.
