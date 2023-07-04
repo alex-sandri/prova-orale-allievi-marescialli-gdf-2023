@@ -109,8 +109,8 @@
 
 #### Aritmetica ed algebra
 
-- Caratteristiche degli insiemi numerici ed operazioni con essi. Gli insiemi N,
-  Z, Q, R.
+- [Caratteristiche degli insiemi numerici ed operazioni con essi. Gli insiemi N,
+  Z, Q, R](matematica/aritmetica-ed-algebra/1.md).
 - Numeri irrazionali. Radicali ed operazioni con essi.
 - Funzioni: definizione, classificazione (lineari, quadratiche, logaritmiche ed
   esponenziali), proprietà e loro rappresentazione grafica.
