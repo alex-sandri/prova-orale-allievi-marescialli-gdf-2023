@@ -127,8 +127,8 @@
 
 - [Gli enti primitivi della geometria euclidea. Semirette, segmenti, angoli:
   definizioni e proprietà](matematica/geometria/1.md).
-- Triangoli, quadrilateri, poligoni regolari, circonferenza e cerchio. Problemi
-  sulle misure, sul perimetro ed area.
+- [Triangoli, quadrilateri, poligoni regolari, circonferenza e cerchio. Problemi
+  sulle misure, sul perimetro ed area](matematica/geometria/2.md).
 - Proporzioni tra grandezze. Proporzionalità diretta e inversa. Teorema di
   Talete e sue conseguenze.
 - La relazione di congruenza nel piano. Criteri di congruenza dei triangoli.
