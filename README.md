@@ -125,8 +125,8 @@
 
 #### Geometria
 
-- Gli enti primitivi della geometria euclidea. Semirette, segmenti, angoli:
-  definizioni e proprietà.
+- [Gli enti primitivi della geometria euclidea. Semirette, segmenti, angoli:
+  definizioni e proprietà](matematica/geometria/1.md).
 - Triangoli, quadrilateri, poligoni regolari, circonferenza e cerchio. Problemi
   sulle misure, sul perimetro ed area.
 - Proporzioni tra grandezze. Proporzionalità diretta e inversa. Teorema di
