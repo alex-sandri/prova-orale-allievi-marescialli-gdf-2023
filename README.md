@@ -129,8 +129,8 @@
   definizioni e proprietà](matematica/geometria/1.md).
 - [Triangoli, quadrilateri, poligoni regolari, circonferenza e cerchio. Problemi
   sulle misure, sul perimetro ed area](matematica/geometria/2.md).
-- Proporzioni tra grandezze. Proporzionalità diretta e inversa. Teorema di
-  Talete e sue conseguenze.
+- [Proporzioni tra grandezze. Proporzionalità diretta e inversa. Teorema di
+  Talete e sue conseguenze](matematica/geometria/3.md).
 - La relazione di congruenza nel piano. Criteri di congruenza dei triangoli.
   Applicazioni.
 - La relazione di equivalenza nel piano. Teorema di Pitagora e sue applicazioni.
