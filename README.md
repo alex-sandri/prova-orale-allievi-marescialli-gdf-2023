@@ -112,8 +112,8 @@
 - [Caratteristiche degli insiemi numerici ed operazioni con essi. Gli insiemi N,
   Z, Q, R](matematica/aritmetica-ed-algebra/1.md).
 - [Numeri irrazionali. Radicali ed operazioni con essi](matematica/aritmetica-ed-algebra/2.md).
-- Funzioni: definizione, classificazione (lineari, quadratiche, logaritmiche ed
-  esponenziali), proprietà e loro rappresentazione grafica.
+- [Funzioni: definizione, classificazione (lineari, quadratiche, logaritmiche ed
+  esponenziali), proprietà e loro rappresentazione grafica](matematica/aritmetica-ed-algebra/3.md).
 - Funzioni esplicite ed implicite e relativa rappresentazione grafica.
 - Le coniche: definizione, caratteristiche e grafici.
 - Equazioni e disequazioni di 1° e 2° grado e relativi sistemi. Principi di
