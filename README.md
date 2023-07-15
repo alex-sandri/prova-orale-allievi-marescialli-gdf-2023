@@ -114,7 +114,7 @@
 - [Numeri irrazionali. Radicali ed operazioni con essi](matematica/aritmetica-ed-algebra/2.md).
 - [Funzioni: definizione, classificazione (lineari, quadratiche, logaritmiche ed
   esponenziali), proprietà e loro rappresentazione grafica](matematica/aritmetica-ed-algebra/3.md).
-- Funzioni esplicite ed implicite e relativa rappresentazione grafica.
+- [Funzioni esplicite ed implicite e relativa rappresentazione grafica](matematica/aritmetica-ed-algebra/4.md).
 - Le coniche: definizione, caratteristiche e grafici.
 - Equazioni e disequazioni di 1° e 2° grado e relativi sistemi. Principi di
   equivalenza. Applicazioni a problemi di 1° e 2° grado.
