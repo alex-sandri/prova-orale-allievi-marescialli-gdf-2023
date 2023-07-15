@@ -115,7 +115,7 @@
 - [Funzioni: definizione, classificazione (lineari, quadratiche, logaritmiche ed
   esponenziali), proprietà e loro rappresentazione grafica](matematica/aritmetica-ed-algebra/3.md).
 - [Funzioni esplicite ed implicite e relativa rappresentazione grafica](matematica/aritmetica-ed-algebra/4.md).
-- Le coniche: definizione, caratteristiche e grafici.
+- [Le coniche: definizione, caratteristiche e grafici](matematica/aritmetica-ed-algebra/5.md).
 - Equazioni e disequazioni di 1° e 2° grado e relativi sistemi. Principi di
   equivalenza. Applicazioni a problemi di 1° e 2° grado.
 - Scomposizione di polinomi in fattori. Operazioni con le frazioni algebriche.
