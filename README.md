@@ -121,7 +121,7 @@
 - [Scomposizione di polinomi in fattori. Operazioni con le frazioni algebriche](matematica/aritmetica-ed-algebra/7.md).
 - [Calcoli percentuali. Interesse, sconto, montante semplice e composto](matematica/aritmetica-ed-algebra/8.md).
 - [Progressioni aritmetiche e geometriche](matematica/aritmetica-ed-algebra/9.md).
-- Monomi, polinomi e operazioni con essi.
+- [Monomi, polinomi e operazioni con essi](matematica/aritmetica-ed-algebra/10.md).
 
 #### Geometria
 
