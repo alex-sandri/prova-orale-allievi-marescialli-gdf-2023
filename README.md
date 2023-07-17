@@ -120,7 +120,7 @@
   equivalenza. Applicazioni a problemi di 1° e 2° grado](matematica/aritmetica-ed-algebra/6.md).
 - [Scomposizione di polinomi in fattori. Operazioni con le frazioni algebriche](matematica/aritmetica-ed-algebra/7.md).
 - [Calcoli percentuali. Interesse, sconto, montante semplice e composto](matematica/aritmetica-ed-algebra/8.md).
-- Progressioni aritmetiche e geometriche.
+- [Progressioni aritmetiche e geometriche](matematica/aritmetica-ed-algebra/9.md).
 - Monomi, polinomi e operazioni con essi.
 
 #### Geometria
