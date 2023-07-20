@@ -58,7 +58,7 @@
 #### L'Italia fisica
 
 - [Confini, territorio, popolazione, religione, regioni, province e comuni](geografia/l-italia-fisica/1.md).
-- Le Alpi e gli Appennini: suddivisione tradizionale, cime e valichi importanti.
+- [Le Alpi e gli Appennini: suddivisione tradizionale, cime e valichi importanti](geografia/l-italia-fisica/2.md).
 - Mari, coste, golfi, isole e penisole.
 - Fiumi e laghi.
 - Le pianure.
