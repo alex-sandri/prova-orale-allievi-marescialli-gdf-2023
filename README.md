@@ -62,7 +62,7 @@
 - [Mari, coste, golfi, isole e penisole](geografia/l-italia-fisica/3.md).
 - [Fiumi e laghi](geografia/l-italia-fisica/4.md).
 - [Le pianure](geografia/l-italia-fisica/5.md).
-- Principali linee di comunicazione terrestri, porti e aeroporti.
+- [Principali linee di comunicazione terrestri, porti e aeroporti](geografia/l-italia-fisica/6.md).
 
 #### I settori della produzione dell'Italia
 
