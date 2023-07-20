@@ -59,7 +59,7 @@
 
 - [Confini, territorio, popolazione, religione, regioni, province e comuni](geografia/l-italia-fisica/1.md).
 - [Le Alpi e gli Appennini: suddivisione tradizionale, cime e valichi importanti](geografia/l-italia-fisica/2.md).
-- Mari, coste, golfi, isole e penisole.
+- [Mari, coste, golfi, isole e penisole](geografia/l-italia-fisica/3.md).
 - Fiumi e laghi.
 - Le pianure.
 - Principali linee di comunicazione terrestri, porti e aeroporti.
