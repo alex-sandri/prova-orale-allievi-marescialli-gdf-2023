@@ -61,7 +61,7 @@
 - [Le Alpi e gli Appennini: suddivisione tradizionale, cime e valichi importanti](geografia/l-italia-fisica/2.md).
 - [Mari, coste, golfi, isole e penisole](geografia/l-italia-fisica/3.md).
 - [Fiumi e laghi](geografia/l-italia-fisica/4.md).
-- Le pianure.
+- [Le pianure](geografia/l-italia-fisica/5.md).
 - Principali linee di comunicazione terrestri, porti e aeroporti.
 
 #### I settori della produzione dell'Italia
