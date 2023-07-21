@@ -66,8 +66,8 @@
 
 #### I settori della produzione dell'Italia
 
-- I settori primario, secondario, terziario, terziario sociale e terziario
-  avanzato: caratteristiche e peculiarità.
+- [I settori primario, secondario, terziario, terziario sociale e terziario
+  avanzato: caratteristiche e peculiarità](geografia/i-settori-della-produzione-dell-italia/1.md).
 - L'agricoltura: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione in rapporto alle condizioni climatiche e ai mercati; relazioni
   ed effetti sull'ambiente.
