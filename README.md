@@ -88,9 +88,9 @@
 - L'artigianato: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione.
 - Il commercio: caratteristiche strutturali, tipologie, fattori di sviluppo e
-  localizzazione; relazioni con I'ambiente e bilancia commerciale.
+  localizzazione; relazioni con l'ambiente e bilancia commerciale.
 - I trasporti e il turismo: caratteristiche strutturali, tipologie, fattori di
-  sviluppo e localizzazione; relazioni con I'ambiente.
+  sviluppo e localizzazione; relazioni con l'ambiente.
 
 #### Aspetti economici e politici degli Stati del continente europeo
 
