@@ -32,7 +32,7 @@
 
 - [La Costituzione italiana](educazione-civica/1.md):
   - [struttura e caratteristiche](educazione-civica/1.md#struttura-e-caratteristiche);
-  - [principi fondamentali](educazione-civica/1.md#principi-fondamentali);
+  - [principi fondamentali](educazione-civica/1.md#principi-fondamentali-1);
   - [diritti e doveri dei cittadini](educazione-civica/1.md#diritti-e-doveri-dei-cittadini);
   - [gli organi costituzionali](educazione-civica/1.md#gli-organi-costituzionali);
   - [gli enti locali](educazione-civica/1.md#gli-enti-locali).
