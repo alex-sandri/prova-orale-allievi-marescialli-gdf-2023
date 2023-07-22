@@ -30,12 +30,12 @@
 
 ### Educazione civica
 
-- La Costituzione italiana:
-  - struttura e caratteristiche;
-  - principi fondamentali;
-  - diritti e doveri dei cittadini;
-  - gli organi costituzionali;
-  - gli enti locali.
+- [La Costituzione italiana](educazione-civica/1.md):
+  - [struttura e caratteristiche](educazione-civica/1.md#struttura-e-caratteristiche);
+  - [principi fondamentali](educazione-civica/1.md#principi-fondamentali);
+  - [diritti e doveri dei cittadini](educazione-civica/1.md#diritti-e-doveri-dei-cittadini);
+  - [gli organi costituzionali](educazione-civica/1.md#gli-organi-costituzionali);
+  - [gli enti locali](educazione-civica/1.md#gli-enti-locali).
 - Origini, evoluzione, organizzazione e funzionamento dell'Unione Europea come
   soggetto politico ed economico:
   - i Trattati di Parigi e Roma, l'Atto unico europeo, il Trattato sull'Unione
@@ -68,9 +68,9 @@
 
 - [I settori primario, secondario, terziario, terziario sociale e terziario
   avanzato: caratteristiche e peculiarità](geografia/i-settori-della-produzione-dell-italia/1.md).
-- L'agricoltura: caratteristiche strutturali, tipologie, fattori di sviluppo e
+- [L'agricoltura: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione in rapporto alle condizioni climatiche e ai mercati; relazioni
-  ed effetti sull'ambiente.
+  ed effetti sull'ambiente](geografia/i-settori-della-produzione-dell-italia/2.md).
 - L'allevamento: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione in rapporto alle condizioni climatiche e ai mercati; relazioni
   ed effetti sull'ambiente.
