@@ -39,16 +39,16 @@
 - [Origini, evoluzione, organizzazione e funzionamento dell'Unione Europea come
   soggetto politico ed economico](educazione-civica/2.md):
   - [i Trattati di Parigi e Roma, l'Atto unico europeo, il Trattato sull'Unione
-    Europea, i Trattati di Amsterdam e di Nizza, il Trattato di Lisbona](educazione-civica/2.md#);
+    Europea, i Trattati di Amsterdam e di Nizza, il Trattato di Lisbona](educazione-civica/2.md#i-trattati-di-parigi-e-roma-latto-unico-europeo-il-trattato-sullunione-europea-i-trattati-di-amsterdam-e-di-nizza-il-trattato-di-lisbona);
   - [il principio delle competenze di attribuzione. Competenze esclusive e
-    competenze concorrenti](educazione-civica/2.md#);
+    competenze concorrenti](educazione-civica/2.md#il-principio-delle-competenze-di-attribuzione-competenze-esclusive-e-competenze-concorrenti);
   - [i principi di sussidiarietà e proporzionalità: gli atti vincolanti, gli atti
-    non vincolanti e gli atti atipici](educazione-civica/2.md#);
+    non vincolanti e gli atti atipici](educazione-civica/2.md#i-principi-di-sussidiarietà-e-proporzionalità-gli-atti-vincolanti-gli-atti-non-vincolanti-e-gli-atti-atipici);
   - [Istituzioni e Organi dell'Unione Europea: il Parlamento, il Consiglio
     Europeo e il Consiglio dell'Unione Europea, la Commissione Europea, la Corte
-    di Giustizia, la Corte dei Conti](educazione-civica/2.md#);
+    di Giustizia, la Corte dei Conti](educazione-civica/2.md#istituzioni-e-organi-dellunione-europea-il-parlamento-il-consiglio-europeo-e-il-consiglio-dellunione-europea-la-commissione-europea-la-corte-di-giustizia-la-corte-dei-conti);
   - [le fonti del diritto: i principi generali, classificazione e adattamento del
-    diritto interno al diritto dell'Unione](educazione-civica/2.md#);
+    diritto interno al diritto dell'Unione](educazione-civica/2.md#le-fonti-del-diritto-i-principi-generali-classificazione-e-adattamento-del-diritto-interno-al-diritto-dellunione);
 - Gli organismi internazionali e le altre organizzazioni e associazioni per la
   cooperazione europea: O.N.U., N.A.T.O., W.T.O., E.F.T.A., O.S.C.E. e Consiglio
   d'Europa.
