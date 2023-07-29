@@ -49,9 +49,9 @@
     di Giustizia, la Corte dei Conti](educazione-civica/2.md#istituzioni-e-organi-dellunione-europea-il-parlamento-il-consiglio-europeo-e-il-consiglio-dellunione-europea-la-commissione-europea-la-corte-di-giustizia-la-corte-dei-conti);
   - [le fonti del diritto: i principi generali, classificazione e adattamento del
     diritto interno al diritto dell'Unione](educazione-civica/2.md#le-fonti-del-diritto-i-principi-generali-classificazione-e-adattamento-del-diritto-interno-al-diritto-dellunione);
-- Gli organismi internazionali e le altre organizzazioni e associazioni per la
+- [Gli organismi internazionali e le altre organizzazioni e associazioni per la
   cooperazione europea: O.N.U., N.A.T.O., W.T.O., E.F.T.A., O.S.C.E. e Consiglio
-  d'Europa.
+  d'Europa](educazione-civica/3.md).
 
 ### Geografia
 
