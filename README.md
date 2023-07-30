@@ -94,7 +94,7 @@
 
 #### Aspetti economici e politici degli Stati del continente europeo
 
-- Penisola Iberica;
+- [Penisola Iberica](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/1.md);
 - Regione Carpatico-Danubiana;
 - Penisola Balcanica;
 - Regione Scandinava;
