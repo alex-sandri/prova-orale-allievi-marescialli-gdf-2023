@@ -99,7 +99,7 @@
 - [Penisola Balcanica](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/3.md);
 - [Regione Scandinava](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/4.md);
 - [Regno Unito ed Irlanda](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/5.md);
-- Paesi del Benelux;
+- [Paesi del Benelux](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/6.md);
 - Regione Francese;
 - Europa Centrale;
 - Russia, Ucraina, Bielorussia e Moldavia;
