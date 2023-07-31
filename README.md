@@ -97,7 +97,7 @@
 - [Penisola Iberica](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/1.md);
 - [Regione Carpatico-Danubiana](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/2.md);
 - [Penisola Balcanica](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/3.md);
-- Regione Scandinava;
+- [Regione Scandinava](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/4.md);
 - Regno Unito ed Irlanda;
 - Paesi del Benelux;
 - Regione Francese;
