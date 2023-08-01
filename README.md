@@ -11,7 +11,7 @@
   mondiale.
 - La rivoluzione sociale in Russia e la nascita dell'Unione Sovietica: dallo
   zarismo a Stalin.
-- La crisi del dopoguerra in Italia: l'affermazione del Fascismo.
+- [La crisi del dopoguerra in Italia: l'affermazione del Fascismo](storia/6.md).
 - La Germania nazista.
 - Fine dell'isolazionismo statunitense e la crisi del 1929.
 - Fasi della seconda guerra mondiale, sotto il profilo militare e diplomatico.
