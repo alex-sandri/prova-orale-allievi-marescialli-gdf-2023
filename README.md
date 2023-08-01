@@ -103,7 +103,7 @@
 - [Regione Francese](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/7.md);
 - [Europa Centrale](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/8.md);
 - [Russia, Ucraina, Bielorussia e Moldavia](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/9.md);
-- Paesi Baltici.
+- [Paesi Baltici](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/10.md).
 
 ### Matematica
 
