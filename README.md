@@ -101,7 +101,7 @@
 - [Regno Unito ed Irlanda](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/5.md);
 - [Paesi del Benelux](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/6.md);
 - [Regione Francese](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/7.md);
-- Europa Centrale;
+- [Europa Centrale](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/8.md);
 - Russia, Ucraina, Bielorussia e Moldavia;
 - Paesi Baltici.
 
