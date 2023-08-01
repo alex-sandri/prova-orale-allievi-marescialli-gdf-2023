@@ -17,8 +17,8 @@
 - Fasi della seconda guerra mondiale, sotto il profilo militare e diplomatico.
 - Storia della resistenza italiana.
 - La situazione socio-economica e culturale nel secondo dopoguerra.
-- La formazione dei blocchi contrapposti USA-URSS e le rispettive sfere
-  d'influenza.
+- [La formazione dei blocchi contrapposti USA-URSS e le rispettive sfere
+  d'influenza](storia/12.md).
 - La guerra civile spagnola.
 - La caduta dei regimi comunisti europei.
 - Processo di decolonizzazione e la nascita del neocolonialismo.
