@@ -71,9 +71,9 @@
 - [L'agricoltura: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione in rapporto alle condizioni climatiche e ai mercati; relazioni
   ed effetti sull'ambiente](geografia/i-settori-della-produzione-dell-italia/2.md).
-- L'allevamento: caratteristiche strutturali, tipologie, fattori di sviluppo e
+- [L'allevamento: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione in rapporto alle condizioni climatiche e ai mercati; relazioni
-  ed effetti sull'ambiente.
+  ed effetti sull'ambiente](geografia/i-settori-della-produzione-dell-italia/3.md).
 - La pesca: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione in rapporto alle condizioni climatiche e ai mercati; relazioni
   ed effetti sull'ambiente.
