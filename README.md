@@ -83,8 +83,8 @@
 - [L'attività estrattiva: caratteristiche strutturali, tipologie, fattori di
   sviluppo e localizzazione in rapporto alle condizioni climatiche e ai mercati;
   relazioni ed effetti sull'ambiente e sulla politica energetica](geografia/i-settori-della-produzione-dell-italia/6.md).
-- L'industria: caratteristiche strutturali, tipologie, fattori di sviluppo e
-  localizzazione; relazioni ed effetti sull'ambiente.
+- [L'industria: caratteristiche strutturali, tipologie, fattori di sviluppo e
+  localizzazione; relazioni ed effetti sull'ambiente](geografia/i-settori-della-produzione-dell-italia/7.md).
 - L'artigianato: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione.
 - Il commercio: caratteristiche strutturali, tipologie, fattori di sviluppo e
