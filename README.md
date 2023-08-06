@@ -77,9 +77,9 @@
 - La pesca: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione in rapporto alle condizioni climatiche e ai mercati; relazioni
   ed effetti sull'ambiente.
-- Silvicoltura: caratteristiche strutturali, tipologie, fattori di sviluppo e
+- [Silvicoltura: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione in rapporto alle condizioni climatiche e ai mercati; relazioni
-  ed effetti sull'ambiente.
+  ed effetti sull'ambiente](geografia/i-settori-della-produzione-dell-italia/5.md).
 - [L'attività estrattiva: caratteristiche strutturali, tipologie, fattori di
   sviluppo e localizzazione in rapporto alle condizioni climatiche e ai mercati;
   relazioni ed effetti sull'ambiente e sulla politica energetica](geografia/i-settori-della-produzione-dell-italia/6.md).
