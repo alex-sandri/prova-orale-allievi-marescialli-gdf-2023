@@ -89,8 +89,8 @@
   localizzazione.
 - Il commercio: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione; relazioni con l'ambiente e bilancia commerciale.
-- I trasporti e il turismo: caratteristiche strutturali, tipologie, fattori di
-  sviluppo e localizzazione; relazioni con l'ambiente.
+- [I trasporti e il turismo: caratteristiche strutturali, tipologie, fattori di
+  sviluppo e localizzazione; relazioni con l'ambiente](geografia/i-settori-della-produzione-dell-italia/10.md).
 
 #### Aspetti economici e politici degli Stati del continente europeo
 
