@@ -87,8 +87,8 @@
   localizzazione; relazioni ed effetti sull'ambiente](geografia/i-settori-della-produzione-dell-italia/7.md).
 - L'artigianato: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione.
-- Il commercio: caratteristiche strutturali, tipologie, fattori di sviluppo e
-  localizzazione; relazioni con l'ambiente e bilancia commerciale.
+- [Il commercio: caratteristiche strutturali, tipologie, fattori di sviluppo e
+  localizzazione; relazioni con l'ambiente e bilancia commerciale](geografia/i-settori-della-produzione-dell-italia/9.md).
 - [I trasporti e il turismo: caratteristiche strutturali, tipologie, fattori di
   sviluppo e localizzazione; relazioni con l'ambiente](geografia/i-settori-della-produzione-dell-italia/10.md).
 
