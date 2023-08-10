@@ -85,8 +85,8 @@
   relazioni ed effetti sull'ambiente e sulla politica energetica](geografia/i-settori-della-produzione-dell-italia/6.md).
 - [L'industria: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione; relazioni ed effetti sull'ambiente](geografia/i-settori-della-produzione-dell-italia/7.md).
-- L'artigianato: caratteristiche strutturali, tipologie, fattori di sviluppo e
-  localizzazione.
+- [L'artigianato: caratteristiche strutturali, tipologie, fattori di sviluppo e
+  localizzazione](geografia/i-settori-della-produzione-dell-italia/8.md).
 - [Il commercio: caratteristiche strutturali, tipologie, fattori di sviluppo e
   localizzazione; relazioni con l'ambiente e bilancia commerciale](geografia/i-settori-della-produzione-dell-italia/9.md).
 - [I trasporti e il turismo: caratteristiche strutturali, tipologie, fattori di
