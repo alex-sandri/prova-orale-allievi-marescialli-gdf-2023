@@ -24,7 +24,7 @@
 - Processo di decolonizzazione e la nascita del neocolonialismo.
 - Problemi politici, economici e religiosi del Medio Oriente dal secondo
   dopoguerra ad oggi.
-- Prima e seconda guerra del Golfo: implicazioni politico-economiche.
+- [Prima e seconda guerra del Golfo: implicazioni politico-economiche](storia/17.md).
 - La guerra civile nella ex Jugoslavia: da Tito alla formazione delle
   Repubbliche balcaniche.
 
