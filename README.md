@@ -16,7 +16,7 @@
 - [Fine dell'isolazionismo statunitense e la crisi del 1929](storia/8.md).
 - Fasi della seconda guerra mondiale, sotto il profilo militare e diplomatico.
 - [Storia della resistenza italiana](storia/10.md).
-- La situazione socio-economica e culturale nel secondo dopoguerra.
+- [La situazione socio-economica e culturale nel secondo dopoguerra](storia/11.md).
 - [La formazione dei blocchi contrapposti USA-URSS e le rispettive sfere
   d'influenza](storia/12.md).
 - La guerra civile spagnola.
