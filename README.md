@@ -14,7 +14,7 @@
 - [La crisi del dopoguerra in Italia: l'affermazione del Fascismo](storia/6.md).
 - [La Germania nazista](storia/7.md).
 - [Fine dell'isolazionismo statunitense e la crisi del 1929](storia/8.md).
-- Fasi della seconda guerra mondiale, sotto il profilo militare e diplomatico.
+- [Fasi della seconda guerra mondiale, sotto il profilo militare e diplomatico](storia/9.md).
 - [Storia della resistenza italiana](storia/10.md).
 - [La situazione socio-economica e culturale nel secondo dopoguerra](storia/11.md).
 - [La formazione dei blocchi contrapposti USA-URSS e le rispettive sfere
