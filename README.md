@@ -21,7 +21,7 @@
   d'influenza](storia/12.md).
 - La guerra civile spagnola.
 - La caduta dei regimi comunisti europei.
-- Processo di decolonizzazione e la nascita del neocolonialismo.
+- [Processo di decolonizzazione e la nascita del neocolonialismo](storia/15.md).
 - Problemi politici, economici e religiosi del Medio Oriente dal secondo
   dopoguerra ad oggi.
 - [Prima e seconda guerra del Golfo: implicazioni politico-economiche](storia/17.md).
