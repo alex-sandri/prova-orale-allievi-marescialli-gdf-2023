@@ -20,7 +20,7 @@
 - [La formazione dei blocchi contrapposti USA-URSS e le rispettive sfere
   d'influenza](storia/12.md).
 - La guerra civile spagnola.
-- La caduta dei regimi comunisti europei.
+- [La caduta dei regimi comunisti europei](storia/14.md).
 - [Processo di decolonizzazione e la nascita del neocolonialismo](storia/15.md).
 - Problemi politici, economici e religiosi del Medio Oriente dal secondo
   dopoguerra ad oggi.
