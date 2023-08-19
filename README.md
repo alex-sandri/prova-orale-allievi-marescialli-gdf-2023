@@ -19,7 +19,7 @@
 - [La situazione socio-economica e culturale nel secondo dopoguerra](storia/11.md).
 - [La formazione dei blocchi contrapposti USA-URSS e le rispettive sfere
   d'influenza](storia/12.md).
-- La guerra civile spagnola.
+- [La guerra civile spagnola](storia/13.md).
 - [La caduta dei regimi comunisti europei](storia/14.md).
 - [Processo di decolonizzazione e la nascita del neocolonialismo](storia/15.md).
 - Problemi politici, economici e religiosi del Medio Oriente dal secondo
