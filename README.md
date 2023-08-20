@@ -5,7 +5,7 @@
 ### Storia
 
 - L'unificazione dell'Italia nel contesto europeo dal 1848 al 1870.
-- L'Europa imperialista e coloniale dopo il 1878 (Congresso di Berlino).
+- [L'Europa imperialista e coloniale dopo il 1878 (Congresso di Berlino)](storia/2.md).
 - [Fasi della prima guerra mondiale sotto il profilo militare e diplomatico](storia/3.md).
 - [Situazione socio-economica e culturale europea durante il primo conflitto
   mondiale](storia/4.md).
