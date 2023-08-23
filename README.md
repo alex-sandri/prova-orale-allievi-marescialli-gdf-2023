@@ -22,8 +22,8 @@
 - [La guerra civile spagnola](storia/13.md).
 - [La caduta dei regimi comunisti europei](storia/14.md).
 - [Processo di decolonizzazione e la nascita del neocolonialismo](storia/15.md).
-- Problemi politici, economici e religiosi del Medio Oriente dal secondo
-  dopoguerra ad oggi.
+- [Problemi politici, economici e religiosi del Medio Oriente dal secondo
+  dopoguerra ad oggi](storia/16.md).
 - [Prima e seconda guerra del Golfo: implicazioni politico-economiche](storia/17.md).
 - La guerra civile nella ex Jugoslavia: da Tito alla formazione delle
   Repubbliche balcaniche.
