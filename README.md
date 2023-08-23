@@ -25,8 +25,8 @@
 - [Problemi politici, economici e religiosi del Medio Oriente dal secondo
   dopoguerra ad oggi](storia/16.md).
 - [Prima e seconda guerra del Golfo: implicazioni politico-economiche](storia/17.md).
-- La guerra civile nella ex Jugoslavia: da Tito alla formazione delle
-  Repubbliche balcaniche.
+- [La guerra civile nella ex Jugoslavia: da Tito alla formazione delle
+  Repubbliche balcaniche](storia/18.md).
 
 ### Educazione civica
 
