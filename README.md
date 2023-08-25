@@ -1,8 +1,6 @@
 # Prove orali "Allievi Marescialli Ispettori GdF 2023"
 
-## Indice
-
-### Storia
+## Storia
 
 - [L'unificazione dell'Italia nel contesto europeo dal 1848 al 1870](storia/1.md).
 - [L'Europa imperialista e coloniale dopo il 1878 (Congresso di Berlino)](storia/2.md).
@@ -28,7 +26,7 @@
 - [La guerra civile nella ex Jugoslavia: da Tito alla formazione delle
   Repubbliche balcaniche](storia/18.md).
 
-### Educazione civica
+## Educazione civica
 
 - [La Costituzione italiana](educazione-civica/1.md):
   - [struttura e caratteristiche](educazione-civica/1.md#struttura-e-caratteristiche);
@@ -53,9 +51,9 @@
   cooperazione europea: O.N.U., N.A.T.O., W.T.O., E.F.T.A., O.S.C.E. e Consiglio
   d'Europa](educazione-civica/3.md).
 
-### Geografia
+## Geografia
 
-#### L'Italia fisica
+### L'Italia fisica
 
 - [Confini, territorio, popolazione, religione, regioni, province e comuni](geografia/l-italia-fisica/1.md).
 - [Le Alpi e gli Appennini: suddivisione tradizionale, cime e valichi importanti](geografia/l-italia-fisica/2.md).
@@ -64,7 +62,7 @@
 - [Le pianure](geografia/l-italia-fisica/5.md).
 - [Principali linee di comunicazione terrestri, porti e aeroporti](geografia/l-italia-fisica/6.md).
 
-#### I settori della produzione dell'Italia
+### I settori della produzione dell'Italia
 
 - [I settori primario, secondario, terziario, terziario sociale e terziario
   avanzato: caratteristiche e peculiarità](geografia/i-settori-della-produzione-dell-italia/1.md).
@@ -92,7 +90,7 @@
 - [I trasporti e il turismo: caratteristiche strutturali, tipologie, fattori di
   sviluppo e localizzazione; relazioni con l'ambiente](geografia/i-settori-della-produzione-dell-italia/10.md).
 
-#### Aspetti economici e politici degli Stati del continente europeo
+### Aspetti economici e politici degli Stati del continente europeo
 
 - [Penisola Iberica](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/1.md);
 - [Regione Carpatico-Danubiana](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/2.md);
@@ -105,9 +103,9 @@
 - [Russia, Ucraina, Bielorussia e Moldavia](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/9.md);
 - [Paesi Baltici](geografia/aspetti-economici-e-politici-degli-stati-del-continente-europeo/10.md).
 
-### Matematica
+## Matematica
 
-#### Aritmetica ed algebra
+### Aritmetica ed algebra
 
 - [Caratteristiche degli insiemi numerici ed operazioni con essi. Gli insiemi N,
   Z, Q, R](matematica/aritmetica-ed-algebra/1.md).
@@ -123,7 +121,7 @@
 - [Progressioni aritmetiche e geometriche](matematica/aritmetica-ed-algebra/9.md).
 - [Monomi, polinomi e operazioni con essi](matematica/aritmetica-ed-algebra/10.md).
 
-#### Geometria
+### Geometria
 
 - [Gli enti primitivi della geometria euclidea. Semirette, segmenti, angoli:
   definizioni e proprietà](matematica/geometria/1.md).
