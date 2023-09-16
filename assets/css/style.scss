@@ -1,7 +1,9 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import
+  "minima/skins/{{ site.minima.skin }}",
+  "minima/initialize";
 
 .footnotes {
   font-size: 12px;
