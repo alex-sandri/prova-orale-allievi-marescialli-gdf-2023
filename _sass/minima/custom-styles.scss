@@ -15,3 +15,12 @@
   padding-top: 10px;
   border-top: 2px solid $border-color-01;
 }
+
+@media print {
+  .site-header,
+  .site-footer,
+  .reversefootnote,
+  .edit-page {
+    display: none;
+  }
+}
