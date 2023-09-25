@@ -24,3 +24,12 @@
     display: none;
   }
 }
+
+p:has(mjx-container) {
+  overflow-x: auto;
+  overflow-y: hidden;
+
+  mjx-container {
+    display: inline-block;
+  }
+}
