@@ -25,11 +25,13 @@
   }
 }
 
-p:has(mjx-container) {
-  overflow-x: auto;
-  overflow-y: hidden;
+@media screen {
+  p:has(mjx-container) {
+    overflow-x: auto;
+    overflow-y: hidden;
 
-  mjx-container {
-    display: inline-block;
+    mjx-container {
+      display: inline-block;
+    }
   }
 }
