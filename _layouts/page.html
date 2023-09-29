@@ -29,7 +29,6 @@ layout: base
     const content = document.querySelector(".post-content").innerText;
     const utterance = new SpeechSynthesisUtterance(content);
 
-    synth.cancel();
-    synth.speak(utterance);
+    synth.speaking ? synth.cancel() : synth.speak(utterance);
   })
 </script>
