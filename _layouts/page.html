@@ -26,8 +26,8 @@ layout: base
   }
 
   listenButton.addEventListener("click", () => {
-    const utteranceContent = document.querySelector(".post-content").innerText;
-    const utterance = new SpeechSynthesisUtterance(utteranceContent);
+    const content = document.querySelector(".post-content").innerText;
+    const utterance = new SpeechSynthesisUtterance(content);
 
     synth.cancel();
     synth.speak(utterance);
