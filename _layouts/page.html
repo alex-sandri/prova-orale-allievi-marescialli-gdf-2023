@@ -3,6 +3,10 @@ layout: base
 ---
 <article class="post">
 
+  <button id="listen">
+    &#x1F3A7 Ascolta
+  </button>
+
   <div class="post-content">
     {{ content }}
   </div>
@@ -12,3 +16,20 @@ layout: base
   </a>
 
 </article>
+
+<script>
+  const synth = window.speechSynthesis;
+
+  const listenButton = document.getElementById("listen");
+  const utteranceContent = document.querySelector(".post-content").innerText;
+
+  if (synth === undefined) {
+    listenButton.disabled = true;
+  }
+
+  const utterance = new SpeechSynthesisUtterance(utteranceContent);
+
+  listenButton.addEventListener("click", () => {
+    synth.speak(utterance);
+  })
+</script>
