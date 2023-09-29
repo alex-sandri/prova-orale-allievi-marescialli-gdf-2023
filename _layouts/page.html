@@ -29,6 +29,9 @@ layout: base
     const content = document.querySelector(".post-content").innerText;
     const utterance = new SpeechSynthesisUtterance(content);
 
+    utterance.voice = synth.getVoices()
+      .find((voice) => ["it", "it-it"].includes(voice.lang.toLowerCase()))
+
     synth.speaking ? synth.cancel() : synth.speak(utterance);
   })
 </script>
