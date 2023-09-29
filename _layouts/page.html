@@ -19,17 +19,17 @@ layout: base
 
 <script>
   const synth = window.speechSynthesis;
-
   const listenButton = document.getElementById("listen");
-  const utteranceContent = document.querySelector(".post-content").innerText;
 
   if (synth === undefined) {
     listenButton.disabled = true;
   }
 
-  const utterance = new SpeechSynthesisUtterance(utteranceContent);
-
   listenButton.addEventListener("click", () => {
+    const utteranceContent = document.querySelector(".post-content").innerText;
+    const utterance = new SpeechSynthesisUtterance(utteranceContent);
+
+    synth.cancel();
     synth.speak(utterance);
   })
 </script>
