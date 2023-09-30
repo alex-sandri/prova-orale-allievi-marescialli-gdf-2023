@@ -19,15 +19,6 @@
   }
 }
 
-.edit-page {
-  font-size: 12px;
-  color: $brand-color;
-
-  &:visited {
-    color: $brand-color;
-  }
-}
-
 .footnotes {
   font-size: 12px;
   color: $brand-color;
@@ -41,8 +32,7 @@
   .site-header,
   .site-footer,
   .reversefootnote,
-  #listen,
-  .edit-page {
+  #listen {
     display: none;
   }
 }
