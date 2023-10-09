@@ -1,5 +1,9 @@
 blockquote {
   font-style: normal;
+
+  i, em {
+    font-style: italic;
+  }
 }
 
 #listen {
