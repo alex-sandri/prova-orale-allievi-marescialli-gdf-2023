@@ -3,31 +3,8 @@ layout: base
 ---
 <article class="post">
 
-  <button id="listen">
-    &#x1F3A7 Ascolta
-  </button>
-
   <div class="post-content">
     {{ content }}
   </div>
 
 </article>
-
-<script>
-  const synth = window.speechSynthesis;
-  const listenButton = document.getElementById("listen");
-
-  if (synth === undefined) {
-    listenButton.disabled = true;
-  }
-
-  listenButton.addEventListener("click", () => {
-    const content = document.querySelector(".post-content").innerText;
-    const utterance = new SpeechSynthesisUtterance(content);
-
-    utterance.voice = synth.getVoices()
-      .find((voice) => ["it", "it-it"].includes(voice.lang.toLowerCase()))
-
-    synth.speaking ? synth.cancel() : synth.speak(utterance);
-  })
-</script>
