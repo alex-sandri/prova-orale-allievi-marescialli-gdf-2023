@@ -1,4 +1,4 @@
-# Prove orali *Allievi Marescialli GdF 2023*
+# Prova orale *Allievi Marescialli GdF 2023*
 
 ## Storia
 
